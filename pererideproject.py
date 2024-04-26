@@ -98,7 +98,7 @@ print(f" R-squared:", r_squared)
 
 with st.form('Enter basic details Below'):
     # Streamlit form
-    st.title('Taxi Fare Prediction')
+    st.title('Pere Boda Boda Request Demand Prediction')
 
     # Input fields
     driver_tip = st.number_input('Driver Tip')
